@@ -1,0 +1,10 @@
+keras
+tensorflow
+numpy
+argparse
+jupyter
+matplotlib
+sklearn
+imutils
+argparse
+opencv-python
